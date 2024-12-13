@@ -5,7 +5,7 @@ import time
 GoogleApi_key = os.environ.get("GOOGLE_API_KEY")
 print(GoogleApi_key)
 
-#video_file_name = "VBRamesh.mp4" # Please set your video file with the path.
+
 video_file_name = "/Users/ravi/projects/Gemini-Grounding-demo/testing-9sec.mp4" # Please set your video file with the path.
 display_name = "sampleDisplayName" # Please set the display name of the uploaded file on Gemini. The file is searched from the file list using this value.
 
