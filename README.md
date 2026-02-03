@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     User((User)) -->|HTTPS/WebSocket| API[API Gateway]
 
